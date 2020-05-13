@@ -14,6 +14,6 @@ A configuration Java class [SubtitlorConfiguration.java](https://github.com/melk
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/35910546/62946896-d9bf6080-bde1-11e9-8756-88ee1cfbe313.png)
-![image](https://user-images.githubusercontent.com/35910546/62947040-1ab77500-bde2-11e9-9161-5fc05b856abb.png)
-![image](https://user-images.githubusercontent.com/35910546/62947107-3884da00-bde2-11e9-8cb5-b97821bda379.png)
+![image](https://raw.githubusercontent.com/melkarmo/Subtitlor/master/screenshots/screenshot1.png)
+![image](https://raw.githubusercontent.com/melkarmo/Subtitlor/master/screenshots/screenshot2.png)
+![image](https://raw.githubusercontent.com/melkarmo/Subtitlor/master/screenshots/screenshot3.png)
